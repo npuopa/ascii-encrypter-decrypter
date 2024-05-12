@@ -12,7 +12,6 @@ int main()
 	string path;
 	cin >> path;
 	helper(path);
-	cin.ignore();
 	cin.get():
 	return 0;
 }
